@@ -5,4 +5,4 @@ public class Main {
         Date currentDate = new Date();
         System.out.println("Hello, Docker! Current date: " + currentDate);
     }
-}
+} 
